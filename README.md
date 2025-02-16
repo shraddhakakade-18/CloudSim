@@ -26,7 +26,7 @@ d)cloudsim-examples-3.0.3-sources.jar<br>
 
 8. Navigate to the jars directory of the CloudSim archive and include the 4 jars in the project.<br>
 9. Create a new package in the src directory of the project.<br>
-10. Copy the code files for the constants, Data Center Creator, Data Center Broker, Matrix Generator and the SJF scheduler ,FCFS sheduler files from the
+10. Copy the code files for the constants, Data Center Creator, Data Center Broker, Matrix Generator and the SJF scheduler ,FCFS sheduler files from the this Repository or from
 https://drive.google.com/drive/folders/1t_yJPCTVvFEc4v1Qe2q35ZEFzMuL2AJt?usp=sharing<br>
 11. Make sure that the package name provided in each file is the same as the previously created package.<br>
 
