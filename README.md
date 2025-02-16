@@ -1,7 +1,7 @@
-<b>CloudSim  <\b><br>
-Cloud Computing Lab<br>
-<b>Assingment 3 : Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in CloudSim.<br><\b>
-<b>Requirements: <br><\b>
+<b> CloudSim  </b> <br>
+<b>Cloud Computing Lab </b> <br>
+<b>Assingment 3 : Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in CloudSim.<br></b>
+<b>Requirements: <br></b>
 1. Java JDK and JRE <br>
 2. CloudSim archives (CloudSim 3.0.3) <br>
 3. Eclipse IDE <br>
