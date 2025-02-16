@@ -1,4 +1,4 @@
-CloudSim <br>
+<b>CloudSim <br> <\b>
 Cloud Computing Lab<br>
 <b>Assingment 3 : Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in CloudSim.<br><\b>
 <b>Requirements: <br><\b>
